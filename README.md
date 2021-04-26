@@ -1,2 +1,3 @@
 Code Repo for my implementation of CRC:
-Cloud Resume Challnege: https://cloudresumechallenge.dev/instructions/
+
+Cloud Resume Challenge: https://cloudresumechallenge.dev/instructions/
